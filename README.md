@@ -14,4 +14,3 @@ Meeskonnatööna loodud lihtne staatiline veebisait GitHubi töövoo, hargnemise
 - Kristina Jeršova – Contact page, README
 
 ## Juhendit projekti avamiseks brauseris.
-Download or clone the repository and open index.html in your browser.
