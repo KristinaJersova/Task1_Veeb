@@ -1,7 +1,17 @@
 # Task1_Veeb
 
-# Lühikirjeldust: Ülesande on luua lihtne veebisait ning õppida meeskonnatööd arenduskeskkonnas, GitHubi töövoogu, harude ja Pull Request’ide kasutamist ning vastutuse jagamist.
-# Kasutatud tehnoloogiaid: Github, Bootstrap’i või Tailwind CSS-i
-# Meeskonnaliikmete nimesid ja vastutusalasid: Kristina Jeršova ja Gerald Andreiman
-# Juhendit projekti avamiseks brauseris.
+## Lühikirjeldust:
+Meeskonnatööna loodud lihtne staatiline veebisait GitHubi töövoo, hargnemise ja pull-requestide harjutamiseks.
 
+## Kasutatud tehnoloogiaid:
+- HTML
+- Bootstrap
+- GitHub
+- CSS
+
+## Meeskonnaliikmete nimesid ja vastutusalasid:
+- Gerald Andreiman – Homepage, Services page
+- Kristina Jeršova – Contact page, README
+
+## Juhendit projekti avamiseks brauseris.
+Download or clone the repository and open index.html in your browser.
