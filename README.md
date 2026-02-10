@@ -15,3 +15,4 @@ Meeskonnatööna loodud lihtne staatiline veebisait GitHubi töövoo, hargnemise
 
 ## Juhendit projekti avamiseks brauseris.
 Download or clone the repository and open web.html in your browser.
+
